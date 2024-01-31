@@ -1,0 +1,15 @@
+.nav-padding {
+    padding-left: 135px;
+}
+
+.bg-custom {
+    background-color: #133742;
+}
+
+.custom-active {
+    background-color: #131337 !important;
+}
+
+.custom-mw {
+    max-width: 1000px;
+}
