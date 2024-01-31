@@ -3,13 +3,13 @@ const data = [
         name: "info",
         headline: "Morten Pedersbæk",
         text: "I am the culprit behind this website. I have been somewhat technical my whole life in the way I think, always caring about science, math and language. My educations within both biology and multimediadesign gave me a broad knowledge, a wide skillset, and a professional approach to science, digital communication, webdesign and webdevelopment. Click on the links to the left to learn more about me.",
-        image: "./images/morten.jpg"
+        image: "https://i.ibb.co/8brhXBm/morten.jpg"
     },
     {
         name: "hobbies",
         headline: "About my hobbies",
         text: "I search for old things on beaches and look for food in forrests. I have a small collection of fossils and a pile of mushroom spots. My father has always been an eager mushroom hunter and that has given me a special interest for that part of life. I suppose I am a kind of amateur mycologist. I love all of nature and the world of living things, and often ponder about evolution. Nature and wild life photography is another hobby of mine.",
-        image: "./images/fossils.jpg"
+        image: "https://i.ibb.co/dkRz4yL/fossils.jpg"
     },
     {
         name: "faq",
@@ -46,27 +46,27 @@ const data = [
         headline: "Nature photography",
         images: [
             {
-                src: "./images/sunrise.jpg",
+                src: "https://i.ibb.co/F3jxyfn/sunrise.jpg",
                 alt: "Sunrise"
             },
             {
-                src: "./images/lizard.jpg",
+                src: "https://i.ibb.co/C9WKFhS/lizard.jpg",
                 alt: "Lizard"
             },
             {
-                src: "./images/butterflies.jpg",
+                src: "https://i.ibb.co/Bw4GWYn/butterflies.jpg",
                 alt: "Butterflies"
             },
             {
-                src: "./images/funnel-chanterelle.jpg",
+                src: "https://i.ibb.co/Fbd7B13/funnel-chanterelle.jpg",
                 alt: "Funnel chanterelle"
             },
             {
-                src: "./images/house-sparrow.jpg",
+                src: "https://i.ibb.co/gFQft6N/house-sparrow.jpg",
                 alt: "House sparrow"
             },
             {
-                src: "./images/sunset.jpg",
+                src: "https://i.ibb.co/2YVcXXg/sunset.jpg",
                 alt: "Sunset"
             }
         ]
